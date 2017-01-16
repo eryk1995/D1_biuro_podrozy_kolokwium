@@ -1,0 +1,13 @@
+C:\Users\local\Documents\eryk\D1_biuro_podrozy\bin\Debug\D1_biuro_podrozy.exe.config
+C:\Users\local\Documents\eryk\D1_biuro_podrozy\bin\Debug\D1_biuro_podrozy.exe
+C:\Users\local\Documents\eryk\D1_biuro_podrozy\bin\Debug\D1_biuro_podrozy.pdb
+C:\Users\local\Documents\eryk\D1_biuro_podrozy\obj\Debug\D1_biuro_podrozy.csprojResolveAssemblyReference.cache
+C:\Users\local\Documents\eryk\D1_biuro_podrozy\obj\Debug\MainWindow.baml
+C:\Users\local\Documents\eryk\D1_biuro_podrozy\obj\Debug\MainWindow.g.cs
+C:\Users\local\Documents\eryk\D1_biuro_podrozy\obj\Debug\App.g.cs
+C:\Users\local\Documents\eryk\D1_biuro_podrozy\obj\Debug\D1_biuro_podrozy_MarkupCompile.cache
+C:\Users\local\Documents\eryk\D1_biuro_podrozy\obj\Debug\D1_biuro_podrozy.g.resources
+C:\Users\local\Documents\eryk\D1_biuro_podrozy\obj\Debug\D1_biuro_podrozy.Properties.Resources.resources
+C:\Users\local\Documents\eryk\D1_biuro_podrozy\obj\Debug\D1_biuro_podrozy.csproj.GenerateResource.Cache
+C:\Users\local\Documents\eryk\D1_biuro_podrozy\obj\Debug\D1_biuro_podrozy.exe
+C:\Users\local\Documents\eryk\D1_biuro_podrozy\obj\Debug\D1_biuro_podrozy.pdb
